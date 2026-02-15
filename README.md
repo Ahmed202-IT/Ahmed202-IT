@@ -1,91 +1,99 @@
 <div align="center">
- 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Ahmed+👋;Full+Stack+Developer;React+%26+Laravel+Expert;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
-  
-  <br/>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500" />
 
-  <br/><br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 
-  <p>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="LINKEDIN_LINK">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="TWITTER_LINK">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-    </a>
-    <a href="PORTFOLIO_LINK">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
-</div>
+# Hi 👋 I'm Ahmed | أحمد
+### 💻 Web Full Stack Developer
 
-<hr/>
-
-### 👨‍💻 About Me
-
-I am a passionate **Full Stack Web Developer** with a strong focus on building scalable web applications. I bridge the gap between graphical design and technical implementation using modern frameworks like **React** and **Laravel**.
-
-* 🔭 I’m currently working on **High-scale Web Applications**.
-* 🌱 I’m currently learning **Advanced Python & AI Integration**.
-* 🚀 I use **Agile & Scrum** methodologies to deliver projects efficiently.
-* ⚡ Fun fact: I turn coffee into code and bugs into features.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+🚀 Passionate about building modern, scalable and high-performance web applications.
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
+
+- 🎯 Full Stack Web Developer  
+- ⚡ Specialized in modern frontend & backend technologies  
+- 🧠 Always learning & improving  
+- 🛠️ Strong believer in clean code & agile mindset  
+- 🌍 Based in Morocco  
+
+---
+
+## 🚀 Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 🛠️ Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat&logo=miro&logoColor=black)
+![Agile](https://img.shields.io/badge/Agile-009688?style=flat)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat)
+
+---
+
+## 🖥️ Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+---
+
+## 📊 Top Languages by Repositories
+
+- 🥇 React  
+- 🥈 TailwindCSS  
+- 🥉 Laravel  
+- Bootstrap  
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vAhmed202-IT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed202-IT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" alt="languages graph"  />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ahmed202-ITAhmed202-IT&show_icons=true&theme=tokyonight" width= "48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed202-IT&layout=compact&theme=tokyonight" width="48%"/>
+
 </div>
 
-<br/>
+---
+
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-link)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)](https://x-link)
+
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed202-IT&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
-</div>
 
-<hr/>
+💡 *"Code. Create. Innovate. Repeat."*  
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed202-IT&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
 </div>
