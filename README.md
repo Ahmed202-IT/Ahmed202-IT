@@ -75,11 +75,21 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed202-ITAhmed202-IT&show_icons=true&theme=tokyonight" width= "48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed202-IT&layout=compact&theme=tokyonight" width="48%"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed202-IT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed202-IT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" height="180" alt="languages graph"  />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed202-IT&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed202-IT&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+</div>>
 
 ---
 
